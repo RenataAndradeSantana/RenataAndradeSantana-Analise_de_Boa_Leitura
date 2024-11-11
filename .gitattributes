@@ -1,1 +1,16 @@
+======= treinamento-de-um-modelo-pretidito
 oodReads_books_limpo.csv filter=lfs diff=lfs merge=lfs -text
+=======
+======= preparacao-dos-dados-para-modelagem
+oodReads_books_limpo.csv filter=lfs diff=lfs merge=lfs -text
+=======
+======= carregamento-e-limpeza-dataset
+GoodReads_100k_books.csv filter=lfs diff=lfs merge=lfs -text
+GoodReads_books_limpo.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+oodReads_books_limpo.csv filter=lfs diff=lfs merge=lfs -text
+=======
+*.csv filter=lfs diff=lfs merge=lfs -text
+======= main
+======= main
+======= main
